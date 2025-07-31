@@ -29,7 +29,7 @@ git clone https://github.com/your_username/hand-gesture-control.git
 cd hand-gesture-control
 
 
-3. Install Dependencies
+2. Install Dependencies
 
 The project relies on several Python libraries. You can install all of them at once using pip:
 pip install opencv-python mediapipe pyautogui pycaw numpy
